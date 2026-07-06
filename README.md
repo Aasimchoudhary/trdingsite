@@ -1,2 +1,1 @@
-# trdingsite
-i make it to make bloxfruits trading market stable 
+# Shafi Values\nDeploy on Streamlit.
